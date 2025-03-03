@@ -1,5 +1,5 @@
 # flutter_basics
-#done this project last year for dbms but due to some glitch in my previous git account uploading it again in this profile 
+#done this project last year for dbms but due to some glitch in my previous git account uploading it again in this git account
 A new Flutter project.
 
 ## Getting Started
